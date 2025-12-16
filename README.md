@@ -1,4 +1,4 @@
-# Smart Product Pricing Challenge 🚀
+# Amazon_Smart_Product_Pricing_Challenge 🚀
 
 ---
 
